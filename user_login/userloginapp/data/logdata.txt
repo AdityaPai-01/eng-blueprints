@@ -1,0 +1,136 @@
+2025-12-13 21:25:58.127420:: New userdata.json file created HP20-30
+2025-12-13 21:25:58.127625:: User-data imported successfully! HP 20-30
+2025-12-13 21:25:58.127771:: Completed authentication data loading. HP 20-30
+2025-12-13 21:25:58.127917:: 1: Initialised user-manager class
+2025-12-13 21:26:08.822728:: Completed authentication data loading. HP 40-50
+2025-12-13 21:26:08.823037:: User [user] not found! HP 40-50
+2025-12-13 21:26:09.846518:: 1: clear terminal executed HP 50-60
+2025-12-13 21:26:12.052952:: 1: clear terminal executed
+2025-12-13 21:26:12.053134:: -1: login-method exited by user HP100-110
+2025-12-13 21:26:14.614096:: User successfully registered! HP 70-80
+2025-12-13 21:26:17.628952:: 1: clear terminal executed HP70-80
+2025-12-13 21:26:17.630639:: 1: register-method executed successfully. HP100-110
+2025-12-13 21:26:20.631854:: User-class data exported successfully HP80-90
+2025-12-13 21:26:20.632957:: Recieved data successfully HP80-90
+2025-12-13 21:26:20.633260:: 1: data storage executed successfully. HP110-120
+2025-12-13 21:26:20.648353:: 1: clear terminal executed HP110-120
+2025-12-13 21:26:23.724202:: Completed authentication data loading. HP 40-50
+2025-12-13 21:26:23.724468:: Login successful. HP 40-50
+2025-12-13 21:26:24.741526:: 1: clear terminal executed HP 50-60
+2025-12-13 21:26:24.741715:: 1: login-method executed successfully. HP100-110
+2025-12-13 21:26:24.741913:: User-class data exported successfully HP80-90
+2025-12-13 21:26:24.742283:: Recieved data successfully HP80-90
+2025-12-13 21:26:24.742411:: 1: data storage executed successfully. HP120-130
+2025-12-13 21:26:24.742607:: 1: User logged in to the application
+2025-12-18 10:12:18.923985:: Data loaded for import. HP20-30
+2025-12-18 10:12:18.942703:: User-data imported successfully! HP 20-30
+2025-12-18 10:12:18.952001:: Completed authentication data loading. HP 20-30
+2025-12-18 10:12:18.965476:: 1: Initialised user-manager class
+2025-12-18 10:15:20.052727:: Data loaded for import. HP20-30
+2025-12-18 10:15:20.065876:: User-data imported successfully! HP 20-30
+2025-12-18 10:15:20.073566:: Completed authentication data loading. HP 20-30
+2025-12-18 10:15:20.081596:: 1: Initialised user-manager class
+2025-12-18 10:15:50.812314:: 1: clear terminal executed
+2025-12-18 10:15:50.829017:: -1: login-method exited by user HP100-110
+2025-12-18 10:16:06.497033:: User successfully registered! HP 70-80
+2025-12-18 10:16:09.527737:: 1: clear terminal executed HP70-80
+2025-12-18 10:16:09.535635:: 1: register-method executed successfully. HP100-110
+2025-12-18 10:16:12.544784:: User-class data exported successfully HP80-90
+2025-12-18 10:16:12.590240:: Recieved data successfully HP80-90
+2025-12-18 10:16:12.598051:: 1: data storage executed successfully. HP110-120
+2025-12-18 10:16:12.614845:: 1: clear terminal executed HP110-120
+2025-12-18 10:16:30.103933:: Completed authentication data loading. HP 40-50
+2025-12-18 10:16:30.116477:: Login successful. HP 40-50
+2025-12-18 10:16:31.143765:: 1: clear terminal executed HP 50-60
+2025-12-18 10:16:31.151393:: 1: login-method executed successfully. HP100-110
+2025-12-18 10:16:31.159562:: User-class data exported successfully HP80-90
+2025-12-18 10:16:31.205621:: Recieved data successfully HP80-90
+2025-12-18 10:16:31.213769:: 1: data storage executed successfully. HP120-130
+2025-12-18 10:16:31.221765:: 1: User logged in to the application
+2025-12-19 08:46:55.060841:: Data loaded for import. HP20-30
+2025-12-19 08:46:55.073460:: User-data imported successfully! HP 20-30
+2025-12-19 08:46:55.081628:: Completed authentication data loading. HP 20-30
+2025-12-19 08:46:55.089761:: 1: Initialised user-manager class
+2025-12-19 08:47:10.743869:: Completed authentication data loading. HP 40-50
+2025-12-19 08:47:10.752061:: User [para] not found! HP 40-50
+2025-12-19 08:47:11.832926:: 1: clear terminal executed HP 50-60
+2025-12-19 08:47:22.164927:: 1: clear terminal executed
+2025-12-19 08:47:22.173217:: -1: login-method exited by user HP100-110
+2025-12-19 08:47:38.935795:: User successfully registered! HP 70-80
+2025-12-19 08:47:41.993098:: 1: clear terminal executed HP70-80
+2025-12-19 08:47:42.001012:: 1: register-method executed successfully. HP100-110
+2025-12-19 08:47:45.009712:: User-class data exported successfully HP80-90
+2025-12-19 08:47:45.056953:: Recieved data successfully HP80-90
+2025-12-19 08:47:45.065916:: 1: data storage executed successfully. HP110-120
+2025-12-19 08:47:45.130786:: 1: clear terminal executed HP110-120
+2025-12-19 08:47:52.615567:: Completed authentication data loading. HP 40-50
+2025-12-19 08:47:52.627150:: Login successful. HP 40-50
+2025-12-19 08:47:53.700844:: 1: clear terminal executed HP 50-60
+2025-12-19 08:47:53.708771:: 1: login-method executed successfully. HP100-110
+2025-12-19 08:47:53.717030:: User-class data exported successfully HP80-90
+2025-12-19 08:47:53.761317:: Recieved data successfully HP80-90
+2025-12-19 08:47:53.769810:: 1: data storage executed successfully. HP120-130
+2025-12-19 08:47:53.778552:: 1: User logged in to the application
+2025-12-19 08:48:29.276689:: Data loaded for import. HP20-30
+2025-12-19 08:48:29.288731:: User-data imported successfully! HP 20-30
+2025-12-19 08:48:29.296197:: Completed authentication data loading. HP 20-30
+2025-12-19 08:48:29.303771:: 1: Initialised user-manager class
+2025-12-19 08:48:50.535597:: User successfully registered! HP 70-80
+2025-12-19 08:48:53.585906:: 1: clear terminal executed HP70-80
+2025-12-19 08:48:53.597603:: 1: register-method executed successfully. HP100-110
+2025-12-19 08:48:56.605346:: User-class data exported successfully HP80-90
+2025-12-19 08:48:56.646366:: Recieved data successfully HP80-90
+2025-12-19 08:48:56.654048:: 1: data storage executed successfully. HP110-120
+2025-12-19 08:48:56.703101:: 1: clear terminal executed HP110-120
+2025-12-19 08:49:06.215493:: Completed authentication data loading. HP 40-50
+2025-12-19 08:49:06.227100:: Login successful. HP 40-50
+2025-12-19 08:49:07.279108:: 1: clear terminal executed HP 50-60
+2025-12-19 08:49:07.286882:: 1: login-method executed successfully. HP100-110
+2025-12-19 08:49:07.294716:: User-class data exported successfully HP80-90
+2025-12-19 08:49:07.336790:: Recieved data successfully HP80-90
+2025-12-19 08:49:07.344559:: 1: data storage executed successfully. HP120-130
+2025-12-19 08:49:07.352267:: 1: User logged in to the application
+2025-12-19 09:03:08.600899:: Data loaded for import. HP20-30
+2025-12-19 09:03:08.613175:: User-data imported successfully! HP 20-30
+2025-12-19 09:03:08.620739:: Completed authentication data loading. HP 20-30
+2025-12-19 09:03:08.628507:: 1: Initialised user-manager class
+2025-12-19 09:03:34.167144:: User successfully registered! HP 70-80
+2025-12-19 09:03:37.265785:: 1: clear terminal executed HP70-80
+2025-12-19 09:03:37.273853:: 1: register-method executed successfully. HP100-110
+2025-12-19 09:03:40.283159:: User-class data exported successfully HP80-90
+2025-12-19 09:03:40.338935:: Recieved data successfully HP80-90
+2025-12-19 09:03:40.348455:: 1: data storage executed successfully. HP110-120
+2025-12-19 09:03:40.450127:: 1: clear terminal executed HP110-120
+2025-12-19 09:03:47.318981:: Completed authentication data loading. HP 40-50
+2025-12-19 09:03:47.331405:: User [brijla] not found! HP 40-50
+2025-12-19 09:03:48.424365:: 1: clear terminal executed HP 50-60
+2025-12-19 09:03:55.105145:: 1: clear terminal executed
+2025-12-19 09:03:55.113297:: -1: login-method exited by user HP100-110
+2025-12-19 09:03:59.463003:: User-class data exported successfully HP80-90
+2025-12-19 09:03:59.507330:: Recieved data successfully HP80-90
+2025-12-19 09:03:59.515658:: 1: data storage executed successfully. HP120-130
+2025-12-19 09:03:59.523919:: -1: User exited the application without login
+2025-12-19 09:04:03.678506:: Data loaded for import. HP20-30
+2025-12-19 09:04:03.690586:: User-data imported successfully! HP 20-30
+2025-12-19 09:04:03.698085:: Completed authentication data loading. HP 20-30
+2025-12-19 09:04:03.705755:: 1: Initialised user-manager class
+2025-12-19 09:04:32.694960:: Completed authentication data loading. HP 40-50
+2025-12-19 09:04:32.820628:: Login successful. HP 40-50
+2025-12-19 09:04:33.914502:: 1: clear terminal executed HP 50-60
+2025-12-19 09:04:33.922813:: 1: login-method executed successfully. HP100-110
+2025-12-19 09:04:33.931057:: User-class data exported successfully HP80-90
+2025-12-19 09:04:33.967260:: Recieved data successfully HP80-90
+2025-12-19 09:04:33.976359:: 1: data storage executed successfully. HP120-130
+2025-12-19 09:04:33.985490:: 1: User logged in to the application
+2025-12-19 22:33:20.431370:: Data loaded for import. HP20-30
+2025-12-19 22:33:20.472786:: User-data imported successfully! HP 20-30
+2025-12-19 22:33:20.489103:: Completed authentication data loading. HP 20-30
+2025-12-19 22:33:20.506285:: 1: Initialised user-manager class
+2025-12-19 22:33:38.133120:: Completed authentication data loading. HP 40-50
+2025-12-19 22:33:38.154514:: Login successful. HP 40-50
+2025-12-19 22:33:39.211637:: 1: clear terminal executed HP 50-60
+2025-12-19 22:33:39.229353:: 1: login-method executed successfully. HP100-110
+2025-12-19 22:33:39.246688:: User-class data exported successfully HP80-90
+2025-12-19 22:33:39.306905:: Recieved data successfully HP80-90
+2025-12-19 22:33:39.323569:: 1: data storage executed successfully. HP120-130
+2025-12-19 22:33:39.340422:: 1: User logged in to the application
