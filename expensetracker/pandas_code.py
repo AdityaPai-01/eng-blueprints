@@ -56,7 +56,7 @@ def main(condition):
                 transaction_amount = float(input("Enter transaction amount: "))
                 transaction_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-                # Create a new row as a DataFrame
+                # Creates a new row in a DataFrame
                 new_entry = pds.DataFrame([{
                     "Transaction_ID": transaction_id,
                     "Transaction_Note": transaction_note,
