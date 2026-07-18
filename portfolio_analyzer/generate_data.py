@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
 
-np.random.seed(42)
+np.random.seed(67)
 
 # Configuration for scale
 num_transactions = 220

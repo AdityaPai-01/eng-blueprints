@@ -19,5 +19,6 @@ def nan_manage():
     global root_df
     root_df["Tx_Fee"] = root_df["Tx_Fee"].fillna(0.0)
 
-def parsing_regex():
+def regex_parsing():
     global root_df
+
