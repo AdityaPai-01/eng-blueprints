@@ -18,7 +18,7 @@ def get_data_filepath(filename="taskdata.json"):
     return os.path.join(data_dir, filename)
 
 todolist = Task_Manager()
-dm = Data_Manager(get_data_filepath())
+dm = Data_Manager(Path(get_data_filepath()))
 
 def initialize():
     todolist.to_list(dm.load_data())
