@@ -16,22 +16,6 @@ A lightweight, object-oriented Command-Line Interface (CLI) To-Do List applicati
 
 ---
 
-## Project Structure
-
-```text
-todolist_app/
-├── data/
-│   └── taskdata.json       # JSON file where task state is persisted
-├── src/
-│   ├── managers/
-│   │   ├── datamanager.py  # Handles loading and saving JSON data
-│   │   └── task_manager.py # Handles task collection logic (CRUD)
-│   ├── model/
-│   │   └── task.py         # Task model definition
-│   └── main.py             # CLI entry point and command handler
-├── .gitignore
-└── README.md
-
 ## Development Notes & AI Transparency
 
 This project was designed and implemented using core Object-Oriented Programming (OOP) principles. Generative AI was integrated into the development workflow as a supportive coding assistant rather than a primary code generator.
@@ -48,3 +32,21 @@ This project was designed and implemented using core Object-Oriented Programming
    AI served as an immediate code reviewer to double-check pattern matching (`match-case`) syntax, optimal data structure operations, and documentation structure.
 
 > **Summary:** The core architecture, domain logic, and CRUD design remain entirely human-driven. AI was applied strategically to accelerate problem-solving for specific edge cases, optimize pathing logic, and streamline project documentation.
+
+---
+
+## Project Structure
+
+```text
+todolist_app/
+├── data/
+│   └── taskdata.json       # JSON file where task state is persisted
+├── src/
+│   ├── managers/
+│   │   ├── datamanager.py  # Handles loading and saving JSON data
+│   │   └── task_manager.py # Handles task collection logic (CRUD)
+│   ├── model/
+│   │   └── task.py         # Task model definition
+│   └── main.py             # CLI entry point and command handler
+├── .gitignore
+└── README.md
