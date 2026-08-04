@@ -2,17 +2,29 @@ from model.task import Task
 from managers.task_manager import Task_Manager
 from managers.datamanager import Data_Manager, Path
 
-import os, time
+import os, sys, time
 
-file_path = Path(f"{Path.cwd()}/data/taskdata.json")
+# WRITTEN BY AI: relevance of filepath with respect to the executable
+def get_data_filepath(filename="taskdata.json"):
+    # If running as a PyInstaller bundle
+    if getattr(sys, 'frozen', False):
+        # Place data folder next to the .exe file
+        base_dir = os.path.dirname(sys.executable)
+    else:
+        # Standard Python execution (src/../ -> root)
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    data_dir = os.path.join(base_dir, "data")
+    os.makedirs(data_dir, exist_ok=True)  # Ensure data directory exists
+    return os.path.join(data_dir, filename)
+
 todolist = Task_Manager()
-dm = Data_Manager(file_path)
+dm = Data_Manager(get_data_filepath())
 
 def initialize():
     todolist.to_list(dm.load_data())
 
 def clear():
-    time.sleep(2)
+    time.sleep(3)
     os.system('cls' if os.name=='nt' else 'clear')
 
 def main():
