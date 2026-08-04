@@ -1,8 +1,8 @@
 class Task:
-    def __init__(self, taskname, task_id):
+    def __init__(self, taskname, task_id, is_completed=False):
         self.taskname: str = taskname
         self.task_id: str = task_id
-        self.is_completed: bool = False
+        self.is_completed: bool = is_completed
 
     # Used to display only the necessary information about the task
     def __str__(self):
