@@ -1,4 +1,4 @@
-# 🛠️ CS Projects & CLI Prototypes
+# 🛠️ Software Projects & CLI Prototypes
 
 This repository holds my medium-sized coding projects, logic-heavy apps, and command-line tools. These aren't polished commercial products, but functional backend prototypes built to practice program design, multi-feature integration, and problem-solving without needing a fancy frontend.
 
